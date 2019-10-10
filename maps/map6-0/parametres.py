@@ -1,0 +1,9 @@
+liste_caracteres_bloques = ["1", "5", "6", "7", "i", "j"]
+liste_caracteres_fleche = ["w", "x", "y", "z"]
+liste_caracteres_maison = ["2"]
+coordonnees_interieur_maison = [[352, 416]]
+coordonnees_porte_maison = [[128, 416]]
+maison_shop = False
+maison_grotte = False
+niveau_monstres = 2
+fond_ecran_combat = "imagesCombat/fondEcranCombat.png"
