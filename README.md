@@ -2,86 +2,27 @@
 
 Un petit jeu semblable a Pokemon. Ce jeu à été crée par moi-même (BEAUCHAMP Enzo) et DAUNAY Florian dans le cadre d'un projet de BAC en classe de terminale.
 
-## Getting Started
+## Le commencement
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Pour que le programme fonctionne correctement sur votre machine il suffit simplement de mettre tous les fichiers présents dans le repository principal dans le même dossier et d'executer le fichier "rpg.py".
 
-### Prerequisites
+### Conditions préalables
 
-What things you need to install the software and how to install them
+Python 3 est nécessaire pour executer ce programme.
 
-```
-Give examples
-```
+## Pour tester
 
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
+Un compte administrateur avec un grand montant d'argent en jeu est disponible avec comme pseudo et mot de passe "admin".
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+* [Python](https://www.python.org//)
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Enzo Beauchamp** - [EnzoKilm](https://github.com/EnzoKilm)
+* **Florian Daunay**
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+Ce projet est sous la liscense : Mozilla Public License - consultez le fichier [LICENSE.md](LICENSE.md) pour plus d'informations
