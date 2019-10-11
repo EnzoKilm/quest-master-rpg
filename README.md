@@ -14,15 +14,19 @@ Python 3 est nécessaire pour executer ce programme.
 
 Un compte administrateur avec un grand montant d'argent en jeu est disponible avec comme pseudo et mot de passe "admin".
 
-## Built With
+## Réalisé avec
 
 * [Python](https://www.python.org//)
 
-## Authors
+## Auteur
 
 * **Enzo Beauchamp** - [EnzoKilm](https://github.com/EnzoKilm)
 * **Florian Daunay**
 
+## Dernière mise-à-jour
+
+22 mai 2019
+
 ## License
 
-Ce projet est sous la liscense Apache 2.0 - consultez le fichier [LICENSE.md](LICENSE.md) pour plus d'informations
+Ce projet est sous la liscense Apache 2.0 - consultez le fichier [LICENSE.md](LICENSE.md) pour plus d'informations.
