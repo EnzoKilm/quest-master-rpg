@@ -25,4 +25,4 @@ Un compte administrateur avec un grand montant d'argent en jeu est disponible av
 
 ## License
 
-Ce projet est sous la liscense : Mozilla Public License - consultez le fichier [LICENSE.md](LICENSE.md) pour plus d'informations
+Ce projet est sous la liscense Apache 2.0 - consultez le fichier [LICENSE.md](LICENSE.md) pour plus d'informations
